@@ -1,8 +1,41 @@
 {
-    "name": "Borneotribun",
-    "short_name": "Borneotribun",
-    "permissions": ["notifications","gcm"],
-    "display": "standalone",
-    "gcm_sender_id": "703280822050",
-    "gcm_user_visible_only": true
+  "name": "Borneotribun",
+  "short_name": "Borneotribun",
+  "start_url": "https://www.borneotribun.com/",
+  "permissions": ["notifications","gcm"],
+  "gcm_sender_id": "703280822050",
+  "gcm_user_visible_only": true,
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Borneotribun menyajikan Berita Politik, Ekonomi, Bisnis, Pendidikan, Olahraga, Seputar Kalimantan.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-0IgdtLO3hZM/X2ezn9hFIVI/AAAAAAAAbQw/bDbj4IRds6kNPcWpNmbBYbYOHqL8tI2uACLcBGAsYHQ/s16000/48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-yQJFh-VtRD8/X2ezoOkUJVI/AAAAAAAAbQ4/K4-4Xx12WEASC6RHi2ht3USzu_13bLpBQCLcBGAsYHQ/s0/72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-mmftjBEiNNU/X2ezoiEomJI/AAAAAAAAbQ8/vpuL7a-81_8MWWDw3jWCA9KRyw10rx3eQCLcBGAsYHQ/s16000/96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-QicQuS2QiB4/X2eznO-1SII/AAAAAAAAbQk/W_lhkTpl-y4ezHm9fUbcyTerbTH9rH2iACLcBGAsYHQ/s0/144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-bceLOHebXPg/X2eznIFDBTI/AAAAAAAAbQs/vlhuvxwhATo-KYDbNK1wx4xnpTcgkYvlQCLcBGAsYHQ/s16000/168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-J8UW2UiNZnY/X2eznEDym5I/AAAAAAAAbQo/hxxw3MnA3zYNWx_2nAlf92hP6tUIQHNvACLcBGAsYHQ/s16000/192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-2C5Uca2c7EY/X2ezoD1x1lI/AAAAAAAAbQ0/stSWD6FD8c482KgO1OquQKcyohxXMMSLgCLcBGAsYHQ/s512/512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
 }
